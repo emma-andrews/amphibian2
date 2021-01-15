@@ -1,0 +1,24 @@
+.lines {
+    min-height: 200px;
+    min-width: 200px;
+}
+
+.editor {
+    height: 18px;
+    width: 50px;
+    appearance: none;
+    font-size: 14px;
+    position: absolute;
+    /* opacity: 0; */
+}
+
+.container {
+    position: absolute;
+}
+
+.line {
+    position: absolute;
+    min-width: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+}
